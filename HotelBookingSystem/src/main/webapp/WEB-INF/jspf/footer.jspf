@@ -1,0 +1,5 @@
+<footer>
+  &copy; <%= java.time.Year.now() %> HotelStay. All rights reserved.
+</footer>
+</body>
+</html>
